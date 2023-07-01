@@ -1,0 +1,9 @@
+mss==9.0.1
+numpy==1.24.3
+opencv_python==4.7.0.72
+Pillow==9.5.0
+PyAutoGUI==0.9.54
+PyQt5==5.15.9
+pytesseract==0.3.10
+tesserocr==2.6.0
+tqdm==4.64.1
